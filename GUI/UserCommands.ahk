@@ -160,7 +160,7 @@ Else If Command = maps ; Google Maps focused on Home
 {
     gui_destroy()
     ; run https://www.google.com/maps/@49.4310635`,11.0431913,17`,17z
-   run https://www.google.de/maps/place/Schweinauer+Hauptstrasse+68,+90441+Nuernberg/@49.4310635`,11.0431913`,17z
+   run https://www.google.de/maps/place/...
 }
 Else If Command = dest ; Google Maps destination
 {
